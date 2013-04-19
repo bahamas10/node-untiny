@@ -1,0 +1,17 @@
+{
+  "name": "untiny",
+  "version": "0.0.0",
+  "description": "Untiny a URL",
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "main": "./untiny.js",
+  "preferGlobal": true,
+  "bin": {
+    "untiny": "./untiny.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git://github.com/bahamas10/node-untiny.git",
+  "license": "MIT",
+  "dependencies": {}
+}
